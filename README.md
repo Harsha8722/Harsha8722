@@ -8,7 +8,7 @@ I'm a passionate **Computer Science Engineering Student** with a strong foundati
 - 🌱 I’m currently learning **Advanced Microservices & DevOps**
 - 👯 I’m looking to collaborate on **Java & Spring Boot Projects**
 - 💬 Ask me about **Java, Spring Boot, MySQL, and System Design**
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: **[harshagowda8976@gmail.com]**
 
 ---
 
