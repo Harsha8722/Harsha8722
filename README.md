@@ -37,12 +37,6 @@ I'm a passionate **Computer Science Engineering Student** with a strong foundati
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha8722&show_icons=true&theme=radical&count_private=true" alt="Harsha8722's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha8722&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
