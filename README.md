@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Harsha
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Front+End+Developer;Backend+Developer;Full+Stack+Developer;Java+Developer" alt="Typing SVG" /></a>
-
-I'm a passionate **Computer Science Engineering Student** with a strong foundation in backend technologies and a growing interest in full-stack development. I love building scalable applications and exploring new technologies.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;Java+Developer;Web+Developer" alt="Typing SVG" /></a>
 
 ![Banner](https://github.com/user-attachments/assets/6b0ee85c-d5a9-4420-9b2a-25213a973678)
 
+I'm a passionate **Computer Science Engineering Student** with a strong foundation in backend technologies and a growing interest in full-stack development. I love building scalable applications and exploring new technologies.
 - 🔭 I’m currently working on **Full Stack Web Applications**
 - 🌱 I’m currently learning **Advanced Microservices & DevOps**
 - 👯 I’m looking to collaborate on **Java & Spring Boot Projects**
